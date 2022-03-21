@@ -2,8 +2,4 @@
 
 - using Python, plotly Dash
 - data source: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
-- deployed on Heroku:
-
-testing github...
-push is not working... ;(
-still testing
+- deployed on Heroku: https://ronacorona-dashboard0.herokuapp.com/
