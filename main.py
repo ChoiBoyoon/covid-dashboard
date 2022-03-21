@@ -14,6 +14,7 @@ stylesheets = [
 ]
 
 app = Dash(__name__, external_stylesheets = stylesheets)
+app.title = "ronacorona dashboard"
 
 server = app.server
 
